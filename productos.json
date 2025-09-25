@@ -1,3 +1,62 @@
-{
-
-}
+[
+    {
+        "id": 1,
+        "nombre": "Laptop Dell Inspiron",
+        "precio": 14500,
+        "imagen": "https://tse2.mm.bing.net/th/id/OIP.UmuMesQprL38DHPMzmF5oAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse Logitech",
+        "precio": 350,
+        "imagen": "https://m.media-amazon.com/images/I/51XfWZOBzRL._AC_SX425_.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Teclado Mecánico",
+        "precio": 1200,
+        "imagen": "https://m.media-amazon.com/images/I/71fRP7KY9hL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Monitor Samsung 24\"",
+        "precio": 3200,
+        "imagen": "https://tse4.mm.bing.net/th/id/OIP.8ZOy1qlRkfkTmCEYnlltjwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+        "id": 5,
+        "nombre": "Audífonos Sony",
+        "precio": 850,
+        "imagen": "https://www.sony.co.cr/image/dd18cf93606d238305a733d336c45537?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320"
+    },
+    {
+        "id": 6,
+        "nombre": "Impresora HP DeskJet",
+        "precio": 2100,
+        "imagen": "https://tse2.mm.bing.net/th/id/OIP.qbMFS4PQDas5ZO_J5CoMIwHaGf?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+        "id": 7,
+        "nombre": "Tablet Lenovo",
+        "precio": 4800,
+        "imagen": "https://tse2.mm.bing.net/th/id/OIP.hVLaPCwzq7gj3V1gK_3UUgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+        "id": 8,
+        "nombre": "Webcam Logitech HD",
+        "precio": 950,
+        "imagen": "https://m.media-amazon.com/images/I/910LofZks1L._AC_SL1500_.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Disco Duro Externo 1TB",
+        "precio": 1800,
+        "imagen": "https://tse1.mm.bing.net/th/id/OIP.IU0kpu_aXuICxsmF9_zoowHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+        "id": 10,
+        "nombre": "Router TP-Link",
+        "precio": 650,
+        "imagen": "https://www.bhphotovideo.com/images/images1000x1000/TP_Link_TL_WR841N_TL_WR841N_Wireless_Lite_N_810050.jpg"
+    }
+]
